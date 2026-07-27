@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://m3m-brabus-residences.vercel.app/sitemap.xml
